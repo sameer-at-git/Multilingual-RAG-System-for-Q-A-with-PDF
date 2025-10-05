@@ -1,0 +1,18 @@
+fastapi
+uvicorn[standard]
+langchain
+chromadb
+sentence-transformers
+pdf2image
+easyocr
+pytesseract
+opencv-python-headless
+torch
+transformers
+python-dotenv
+langdetect
+python-multipart
+onnxruntime  # optional - for some transformer backends
+requests
+tqdm
+pandas
